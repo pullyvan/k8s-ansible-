@@ -12,7 +12,7 @@ ansible
 ```
 
 ## Objectif
-Le but est de crée un cluster dans le but de pouvoir faire tourner un container avec ton site web qui affichera ton cv sur son réseau interne.
+Le but est de crée un cluster dans le but de pouvoir faire tourner un container avec ton site web qui affichera ton cv sur son réseau interne. Ne pas oublier de documenter la procédure d'installation. Tous les fichiers (vagrantfile, script ansible doit être sur github)
 
 Il faut pouvoir déployer et ça doit être scalable.
 ```
